@@ -15,8 +15,8 @@ def stream_markup(user_id):
       InlineKeyboardButton(text="• Cʟᴏsᴇ", callback_data=f'cls'),
     ],
     [
-      InlineKeyboardButton(text="✨ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
-      InlineKeyboardButton(text="📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+      InlineKeyboardButton(text="✨ ɢʀᴏᴜᴘ", url=f"https://t.me/FULL_ON_MOJJ_MASTI"),
+      InlineKeyboardButton(text="📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TEAM_IND_OFFICIAL"),
     ],
   ]
   return buttons
