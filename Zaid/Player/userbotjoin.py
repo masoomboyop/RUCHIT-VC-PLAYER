@@ -39,7 +39,7 @@ async def join_group(client, message):
         )
         return
     await message.reply_text(
-        f"✅ **userbot succesfully entered chat**",
+        f"✅ **Baby Tum Bohot Gande Ho"
     )
 
 
@@ -48,7 +48,7 @@ async def join_group(client, message):
 @authorized_users_only
 async def leave_one(client, message):
     try:
-        await USER.send_message(message.chat.id, "✅ userbot successfully left chat")
+        await USER.send_message(message.chat.id, "Tum Itne Gande Q Ho Baby 🥺🥺")
         await USER.leave_chat(message.chat.id)
     except BaseException:
         await message.reply_text(
