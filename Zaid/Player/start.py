@@ -45,15 +45,15 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                        "➕ ❰ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "BOT OWNER", url=f"https://t.me/Cutie_innocent_girl"
+                        "𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑", url=f"https://t.me/Cutie_innocent_girl"
                     ),
                     InlineKeyboardButton(
-                        "GET REPO", url="https://github.com/masoomboyop/RUCHIT-VC-PLAYER"
+                        "𝐆𝐄𝐓 𝐑𝐄𝐏𝐎", url="https://github.com/masoomboyop/RUCHIT-VC-PLAYER"
                     )
                 ],
                 [
