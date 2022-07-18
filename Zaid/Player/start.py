@@ -50,18 +50,18 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
+                        "BOT OWNER", url=f"https://t.me/Cutie_innocent_girl"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/ITZ-ZAID/Zaid-Vc-Player"
+                        "GET REPO", url="https://github.com/masoomboyop/RUCHIT-VC-PLAYER"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TEAM_IND_OFFICIAL"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/FULL_ON_MOJJ_MASTI"
                     )
                 ]
                 
