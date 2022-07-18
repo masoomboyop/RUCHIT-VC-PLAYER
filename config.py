@@ -9,7 +9,7 @@ if os.path.exists("local.env"):
 
 load_dotenv()
 admins = {}
-SESSION_NAME = getenv("SESSION_NAME", "")
+SESSION_NAME = getenv("SESSION_NAME", "BQC44YlWgRT0ujz0r3d-wHvOJiJLchoU9mrgNmVT_aEtFwh8KvCkKiafoKVkKqe4gq1ys3oOywgJhRzagogQ-bSIm4HqisWJHTXpK9d8hWWnZ06YWj8AeJ-zz0ZXPqueE6JmWHxP4NoyEu7Yx6kArFRWbmWfnWDDdqoNUNx8d8ypVyjQI4-PERhtPOYkQpDYYw7DBGmo8zcEUwgdCLEh3GWhdlH8i8qtRrkZfT5Kebm1OdueyKM4es4tu2XERcLzDbOVmWpMGBb6gbb3oPK6KTt8rvPIy1sjpJoGQoNkxGv38ozOOGKd13xKZwPUWnFH7wqMutlvq1hdf5Bwucxitg6MbdErCQA")
 BOT_TOKEN = getenv("BOT_TOKEN", "5404987080:AAElWjH1O7CEx4CJ71LsPccRyMPX_t7d_pI")
 BOT_NAME = getenv("BOT_NAME", "MASOOM LOVER MUSIC")
 API_ID = int(getenv("API_ID", "8260758")
