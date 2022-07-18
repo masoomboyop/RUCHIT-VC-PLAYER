@@ -9,9 +9,9 @@ if os.path.exists("local.env"):
 
 load_dotenv()
 admins = {}
-SESSION_NAME = getenv("SESSION_NAME", "")
-BOT_TOKEN = getenv("BOT_TOKEN", "")
-BOT_NAME = getenv("BOT_NAME", "Umk")
+SESSION_NAME = getenv("SESSION_NAME", "BQCBYwRQfIzDA6U4J1NOFVfWY6fw6AAyFrzibQdJS8hySWjIoVi_4yzYxdORoAEh8YkrXdE2GicuC0olIvcBH_xxEgmzRR8yjxl-VvlUojGfLdxJP-dwLW-iP4DgcYFwPLfbBCNjZEmY_Bd6zOC9VPcnuKqK3oTF0segNRv-pVexC61_Dm-VapSUPCdogJt6X9sxtPpBZh6R5Pwkp3htL3Ku9pyKLlD3vmIw8q_YgBfhkJ98IrLrLTLtAiDMkHShBXlZ1EOQ4CfsWxe2o3nJfaMHChh3ECQkNLL7FlPdDfW17jeYIW0WBI-c0MCJAXBXAgi6vJEwnqdOXM02sNFmu1PNbdErCQA")
+BOT_TOKEN = getenv("BOT_TOKEN", "5192831405:AAGxZq9Iu7Y73GgDK-y5aknGXp27x6jNI38")
+BOT_NAME = getenv("BOT_NAME", "MASOOM LOVER MUSIC")
 API_ID = int(getenv("API_ID", "8260758")
 API_HASH = getenv("API_HASH", "f1978dac0dafe758700fac54d207b26f")
 OWNER_NAME = getenv("OWNER_NAME", "𓆩𝐈𝐍𝐃🇮🇳𓆪 ❥ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤ❤⃝⃝𝐑𝐔𝐂𝐇𝐈𝐓𓆩♡𓆪🥀』")
