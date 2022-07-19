@@ -27,16 +27,6 @@ from pytgcalls.types.input_stream import AudioPiped
 from youtubesearchpython import VideosSearch
 import yt_dlp as youtube_dl
 
-FOREGROUND_IMG = [
-    "Process/ImageFont/Red.png",
-    "Process/ImageFont/Black.png",
-    "Process/ImageFont/Blue.png",
-    "Process/ImageFont/Grey.png",
-    "Process/ImageFont/Green.png",
-    "Process/ImageFont/Lightblue.png",
-    "Process/ImageFont/Lightred.png",
-    "Process/ImageFont/Purple.png",
-]
 
 def ytsearch(query: str):
     try:
